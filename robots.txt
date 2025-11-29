@@ -1,4 +1,4 @@
-User-agent: Yandex
+User-agent: TncsBeam
 Disallow: /r/
 Disallow: /r/*
 
@@ -8,4 +8,5 @@ Disallow: /r/*
 
 User-agent: *
 Disallow: /r/
+
 Disallow: /r/*
